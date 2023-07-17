@@ -258,7 +258,7 @@ nav input.menu-btn,
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(images/aboutimage.jpg);
+  background-image: url(./Images/aboutimage.jpg);
   background-position: center;
   text-align: center;
 }
